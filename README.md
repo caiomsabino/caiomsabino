@@ -6,7 +6,12 @@ Atualmente, estou envolvido no desenvolvimento do repositório [2025.1-T02-Gesta
 
 ### Estatísticas do meu GitHub 📊
 
-[![Estatísticas do GitHub de Caio](https://github-readme-stats.vercel.app/api?username=caiomsabino&show_icons=true&theme=default)](https://github.com/caiomsabino)
+
+ <div style="margin-top: 10px" align="center">
+  <a href="https://github.com/caiomsabino">
+   <img height="180em" align="center" alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=caiomsabino&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+   <img height="180em" align="center" alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomsabino&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
+</div>
 
 ---
 
